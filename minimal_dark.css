@@ -41,7 +41,7 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(media/v.jpg);
+  background-image: url(media/background_dark.jpg);
   z-index: -1;
   overflow: hidden;
 }
